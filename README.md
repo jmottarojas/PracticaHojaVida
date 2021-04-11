@@ -1,4 +1,1 @@
-Hoja de Vida Ejemplo
-Curso GIT Sofka Academy
-Basado en un tema de TemplateFlip
-
+Relizando push al servidor remoto
